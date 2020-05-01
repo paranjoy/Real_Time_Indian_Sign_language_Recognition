@@ -31,7 +31,7 @@ the various software packages required-->
 
 ##REAL TIME TESTING OF OUR MODEL
 ..* open REAL_TIME_PREDICTION.ipynb file to proceed
-..* run each cell one after the other **in order**
+..* run each cell one after the other **in order** 
 
 
 
